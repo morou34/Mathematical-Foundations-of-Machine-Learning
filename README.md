@@ -3,9 +3,7 @@ In this repository you can find all the solutions i implemented for the problems
 
 Course Sections
 
-Linear Algebra Data Structures
-
-Tensor Operations
+Linear Algebra Data Structures  Tensor Operations
 Matrix Properties
 Eigenvectors and Eigenvalues
 Matrix Operations for Machine Learning
