@@ -6,9 +6,7 @@ Course Sections
 Linear Algebra Data Structures
 
 Tensor Operations
-
 Matrix Properties
-
 Eigenvectors and Eigenvalues
 Matrix Operations for Machine Learning
 Limits
